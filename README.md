@@ -22,7 +22,7 @@ This repo contains my hands-on learning, example applications, and projects buil
 
 ##  Folder Structure
 
-'''
+'''html
 springBoot/
 ├── 01_intro/
 │   └── HelloWorldApplication.java
@@ -38,7 +38,7 @@ springBoot/
 ├── application.properties
 ├── .gitignore
 └── README.md
-'''
+```
 Tech Stack:
 -Java 17+
 -Spring Boot
