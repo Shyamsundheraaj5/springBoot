@@ -1,0 +1,14 @@
+# Ignore build files and system files
+*.class
+*.jar
+*.war
+.DS_Store
+
+# IntelliJ files
+.idea/
+*.iml
+out/
+target/
+
+# VS Code files
+.vscode/
