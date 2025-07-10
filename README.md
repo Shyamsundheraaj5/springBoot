@@ -1,14 +1,15 @@
 # springBoot
-#  Spring Boot Backend Practice
+
+## 🌱 Spring Boot Backend Practice
 
 Welcome to my Spring Boot backend development practice repository!  
-This repo contains my hands-on learning, example applications, and projects built using **Spring Boot** and related technologies.
+This repo contains my hands-on learning, example applications, and mini-projects built using **Spring Boot** and related technologies.
 
 ---
 
-##  Modules Covered
+## 📚 Modules Covered
 
-### Unit 1: Getting Started With Backend Concepts
+### 🧩 Unit 1: Getting Started With Backend Concepts
 - Introduction to Spring & Spring Boot
 - Client-Server Architecture
 - What is an API?
@@ -16,13 +17,13 @@ This repo contains my hands-on learning, example applications, and projects buil
 - Maven & Dependency Management
 - Tooling: IntelliJ IDEA, Postman, DBeaver
 
-> Sample code and practice implementations available in structured folders.
+> Sample code and practice implementations are organized in structured folders.
 
 ---
 
-##  Folder Structure
+## 📁 Folder Structure
 
-'''html
+```bash
 springBoot/
 ├── 01_intro/
 │   └── HelloWorldApplication.java
@@ -39,17 +40,22 @@ springBoot/
 ├── .gitignore
 └── README.md
 ```
-Tech Stack:
--Java 17+
--Spring Boot
--Maven
--REST APIs
--MySQL
--Postman
--IntelliJ IDEA
 
+---
 
-Author:
-Shyamsundheraaj S
+## ⚙️ Tech Stack
+
+- Java 17+
+- Spring Boot
+- Maven
+- REST APIs
+- MySQL
+- Postman
+- IntelliJ IDEA
+
+---
+
+## 👨‍💻 Author
+
+**Shyamsundheraaj S**  
 3rd Year CSE-AI @ Parul University
-
